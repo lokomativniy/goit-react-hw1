@@ -1,0 +1,46 @@
+.statistics {
+   margin-bottom: 40px;
+   width: 300px;
+   height: 250px;
+   border-radius: 5px;
+   border-style: solid;
+   border-color: teal;
+ }
+ 
+ .title {
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-transform: uppercase;
+ }
+ 
+ .statList {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ .statList :not(:last-child) {
+   margin-right: 15px;
+ }
+ 
+ .item {
+   display: inline-block;
+   flex-basis: calc((100%) / 5);
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+ }
+ 
+ .label {
+   display: block;
+   margin-bottom: 10px;
+   font-size: 12px;
+   font-weight: 500;
+ }
+ .percentage {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 1.2;
+ }

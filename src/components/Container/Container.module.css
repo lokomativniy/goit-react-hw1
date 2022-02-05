@@ -1,0 +1,17 @@
+.container {
+   height: auto;
+   margin-left: auto;
+   margin-right: auto;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 15px;
+   color: #ffffff;
+   line-height: 1.5;
+   text-align: center;
+ }
+ @media screen and (min-width: 1400px) {
+   .container {
+     display: flex;
+     justify-content: space-between;
+   }
+ }

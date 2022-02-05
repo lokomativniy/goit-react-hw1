@@ -1,0 +1,28 @@
+.transactionHistory {
+   width: 400px;
+   padding: 10px;
+   border-radius: 5px;
+   border-style: solid;
+   border-color: teal;
+   margin-bottom: 40px;
+ }
+ .head {
+   padding-bottom: 10px;
+   border-bottom: 1px solid #757575;
+ }
+ .type {
+   padding-left: 25px;
+   text-align: left;
+   text-transform: capitalize;
+ }
+ 
+ .headType {
+   padding-bottom: 10px;
+   padding-left: 25px;
+   text-align: left;
+   border-bottom: 1px solid #757575;
+ }
+ 
+ .row:nth-child(even) {
+   color: #757575;
+ }
