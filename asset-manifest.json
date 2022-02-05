@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lokomativniy/goit-react-hw1/static/css/main.073c9b0a.css",
+    "main.js": "/lokomativniy/goit-react-hw1/static/js/main.d680ea77.js",
+    "static/js/787.12eae86c.chunk.js": "/lokomativniy/goit-react-hw1/static/js/787.12eae86c.chunk.js",
+    "static/media/logo.svg": "/lokomativniy/goit-react-hw1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lokomativniy/goit-react-hw1/index.html",
+    "main.073c9b0a.css.map": "/lokomativniy/goit-react-hw1/static/css/main.073c9b0a.css.map",
+    "main.d680ea77.js.map": "/lokomativniy/goit-react-hw1/static/js/main.d680ea77.js.map",
+    "787.12eae86c.chunk.js.map": "/lokomativniy/goit-react-hw1/static/js/787.12eae86c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d680ea77.js"
+  ]
+}
