@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lokomativniy/goit-react-hw1/static/css/main.22e327bd.css",
-    "main.js": "/lokomativniy/goit-react-hw1/static/js/main.2d324bd7.js",
-    "index.html": "/lokomativniy/goit-react-hw1/index.html",
-    "main.22e327bd.css.map": "/lokomativniy/goit-react-hw1/static/css/main.22e327bd.css.map",
-    "main.2d324bd7.js.map": "/lokomativniy/goit-react-hw1/static/js/main.2d324bd7.js.map"
+    "main.css": "/github.io/goit-react-hw1/static/css/main.22e327bd.css",
+    "main.js": "/github.io/goit-react-hw1/static/js/main.2d324bd7.js",
+    "index.html": "/github.io/goit-react-hw1/index.html",
+    "main.22e327bd.css.map": "/github.io/goit-react-hw1/static/css/main.22e327bd.css.map",
+    "main.2d324bd7.js.map": "/github.io/goit-react-hw1/static/js/main.2d324bd7.js.map"
   },
   "entrypoints": [
     "static/css/main.22e327bd.css",
