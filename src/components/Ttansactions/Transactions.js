@@ -1,5 +1,5 @@
-import PropTypes from 'prop-types';
-import s from './Transaction.module.css';
+import PropTypes from "prop-types";
+import s from "./Transaction.module.css";
 
 export default function TransactionHistory({ items }) {
   return (
@@ -12,7 +12,7 @@ export default function TransactionHistory({ items }) {
         </tr>
       </thead>
       <tbody>
-        {items.map(item => (
+        {items.map((item) => (
           <tr key={item.id} className={s.row}>
             <td className={s.type}>{item.type}</td>
             <td>{item.amount}</td>
@@ -31,6 +31,6 @@ TransactionHistory.propTypes = {
       type: PropTypes.string.isRequired,
       amount: PropTypes.string.isRequired,
       currency: PropTypes.string.isRequired,
-    }),
-  ),
+    }).isRequired
+  ).isRequired,
 };
